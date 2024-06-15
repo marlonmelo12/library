@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "0cd4",
+      "name": "Marlon",
+      "email": "marlonmelo@alu.ufc.br",
+      "tel": "4232534",
+      "city": "iipu",
+      "books": []
+    }
+  ],
+  "books": [
+    {
+      "id": "0504",
+      "title": "Harry Potterr",
+      "publisher": "America",
+      "author": "JK Rowling",
+      "gender": {
+        "id": "8",
+        "name": "Infantil"
+      }
+    }
+  ],
+  "genders": [
+    {
+      "id": "1",
+      "name": "Romance"
+    },
+    {
+      "id": "2",
+      "name": "Aventura"
+    },
+    {
+      "id": "3",
+      "name": "Ficção Científica"
+    },
+    {
+      "id": "4",
+      "name": "Biografia/Autobiografia"
+    },
+    {
+      "id": "5",
+      "name": "História"
+    },
+    {
+      "id": "6",
+      "name": "Ciência"
+    },
+    {
+      "id": "7",
+      "name": "Autoajuda"
+    },
+    {
+      "id": "8",
+      "name": "Infantil"
+    }
+  ]
+}
